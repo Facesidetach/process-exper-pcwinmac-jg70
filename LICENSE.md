@@ -1,4 +1,4 @@
-# 
+# 开源 Process Explorer 预设 Mac OS版 | 精英 Process Explorer 预设 PC Windows版。集成 搜索功能 和 多格式支持，跨平台性能最大化。
 
 
 
